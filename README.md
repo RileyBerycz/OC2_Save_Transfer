@@ -27,6 +27,11 @@ Then you'll see a GUI open and just enter all the info required and you should h
 The user interface could look better any suggestions for improvements i'm all ears.
 Not certain if it will 100% work with every save file but worth testing as it might!
 
+## Appreciation
+Many thanks to WTassoux for the publishing the original python code. I take no credit for the encrpytion or decryption magic of it so thank you.
+Check out all their amazing work here https://github.com/WTassoux
+
+
 ## Licensing
 This software is licensed under the terms of Apache 2.0.  
 You can find a copy of the license in the LICENSE file.
