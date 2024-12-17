@@ -28,7 +28,8 @@ The user interface could look better any suggestions for improvements i'm all ea
 Not certain if it will 100% work with every save file but worth testing as it might!  
 
 ## Appreciation
-Many thanks to WTassoux for the publishing the original python code. I take no credit for the encrpytion or decryption magic of it so thank you.  
+Many thanks to WTassoux for publishing the original python code.  
+I take no credit for the encrpytion or decryption magic of it so thank you.  
 Check out all their amazing work here https://github.com/WTassoux  
 
 
